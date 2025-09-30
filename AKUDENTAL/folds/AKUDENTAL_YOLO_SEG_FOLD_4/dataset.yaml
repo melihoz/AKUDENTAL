@@ -1,0 +1,44 @@
+
+# Dataset configuration for FOLD_4
+path: D:\dental\AKUDENTALlast\AKUDENTAL_YOLO_FOLD_4
+train: images/train
+val: images/val
+test: images/test
+
+nc: 35
+names:
+  0: 11 - Central Incisor
+  1: 12 - Lateral Incisor
+  2: 13 - Canine
+  3: 14 - 1st Premolar
+  4: 15 - 2nd Premolar
+  5: 16 - 1st Molar
+  6: 17 - 2nd Molar
+  7: 18 - 3rd Molar
+  8: 21 - Central Incisor
+  9: 22 - Lateral Incisor
+  10: 23 - Canine
+  11: 24 - 1st Premolar
+  12: 25 - 2nd Premolar
+  13: 26 - 1st Molar
+  14: 27 - 2nd Molar
+  15: 28 - 3rd Molar
+  16: 31 - Central Incisor
+  17: 32 - Lateral Incisor
+  18: 33 - Canine
+  19: 34 - 1st Premolar
+  20: 35 - 2nd Premolar
+  21: 36 - 1st Molar
+  22: 37 - 2nd Molar
+  23: 38 - 3rd Molar
+  24: 41 - Central Incisor
+  25: 42 - Lateral Incisor
+  26: 43 - Canine
+  27: 44 - 1st Premolar
+  28: 45 - 2nd Premolar
+  29: 46 - 1st Molar
+  30: 47 - 2nd Molar
+  31: 48 - 3rd Molar
+  32: Bridge
+  33: Filling - Crown
+  34: Implant
