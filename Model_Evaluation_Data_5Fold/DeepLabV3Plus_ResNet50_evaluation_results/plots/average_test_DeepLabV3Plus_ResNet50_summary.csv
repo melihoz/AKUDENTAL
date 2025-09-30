@@ -1,0 +1,2 @@
+model,dataset,avg_miou,avg_dice,avg_precision,avg_recall,avg_accuracy
+DeepLabV3Plus_ResNet50,test,0.6527290420156215,0.738413148157214,0.7749060177215363,0.7285053411656837,0.9715551869329497

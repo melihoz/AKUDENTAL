@@ -1,0 +1,2 @@
+model,dataset,avg_miou,avg_dice,avg_precision,avg_recall,avg_accuracy
+UNet_ResNet50,val,0.6662942313202996,0.7500448907547546,0.782848971777881,0.7403431049091383,0.9735755920410158
