@@ -1,0 +1,2 @@
+model,dataset,avg_dice,avg_map,avg_mar
+maskrcnn,test,0.8678505445013801,,
